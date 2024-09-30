@@ -1,6 +1,6 @@
 # csrt
 
-This is the official repository of **CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset** submitted to the NeurIPS 2024 Datasets and Benchmarks track.
+This is the official repository of **CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset**.
 
 > We introduce code-switching red-teaming, a simple yet effective red-teaming technique that simultaneously tests the multilingual capabilities and safety of LLMs
 
